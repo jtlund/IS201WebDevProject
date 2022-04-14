@@ -1,0 +1,40 @@
+.header{
+    height: 90px;
+    background-color: navy;
+    line-height: 80px;
+    font-size: 80px;
+    font-weight: bold;
+    color: white;
+}
+
+.center{
+    text-align: center;
+}
+
+.tab{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.navi{
+    text-decoration: none;
+    margin-right: 30px;
+    margin-left: 30px;
+    color: white;
+}
+.bgcolor{
+    background-color: grey;
+}
+h3{
+    color: white;
+    font-weight: bolder;
+}
+p{
+    color: white;
+}
+a{
+    color: #0000EE;
+    font-weight: bold;
+}
